@@ -45,6 +45,15 @@ body, td, th { font-family: 'Noto Sans KR', sans-serif !important; color: #333; 
 .footer-link { color: #bbbbbb !important; text-decoration: none; }
 </style>
 <script>
+// 모바일 접속 감지 및 리다이렉트
+if (/Mobi|Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    // 사용자가 명시적으로 PC버전을 요청하지 않은 경우에만 이동
+    if (document.location.search.indexOf("pc=1") === -1) {
+        location.href = "m/index.htm";
+    }
+}
+</script>
+<script>
 function MenuOutTD(obj) { obj.style.color = "#3d3d3d"; }
 function MenuOnTD(obj) { obj.style.color = "#004c45"; }
 </script>
