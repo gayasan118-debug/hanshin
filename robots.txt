@@ -1,3 +1,7 @@
 User-agent: *
 Allow: /
+
+User-agent: Yeti
+Allow: /
+
 Sitemap: https://www.평촌한신더휴.com/sitemap.xml
