@@ -1,0 +1,1749 @@
+/**** disabling Isotope CSS3 transitions ****/
+.isotope.no-transition,
+.isotope.no-transition .isotope-item,
+.isotope .isotope-item.no-transition {
+  -webkit-transition-duration: 0s;
+  -moz-transition-duration: 0s;
+  -ms-transition-duration: 0s;
+  -o-transition-duration: 0s;
+  transition-duration: 0s;
+}
+.video-container {
+  position: relative;
+  overflow: hidden;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.video-wrapper {
+  max-width: 100%;
+}
+.theme-content img,
+#mk-sidebar img,
+#footer img,
+.mk-page-section img {
+  max-width: 100%;
+  width: auto\9;
+  height: auto;
+  border: 0;
+  vertical-align: middle;
+  -ms-interpolation-mode: bicubic;
+}
+input.text_input,
+textarea.textarea,
+.wpcf7-text,
+.wpcf7-textarea {
+  padding: 8px;
+  outline: none;
+  background-color: rgba(0, 0, 0, 0.1);
+  color: #676767;
+}
+input.text_input:focus,
+textarea.textarea:focus,
+.wpcf7-text:focus,
+.wpcf7-textarea:focus {
+  background-color: rgba(0, 0, 0, 0.15);
+  color: #676767;
+}
+.dark input.text_input,
+.dark textarea.textarea {
+  background-color: rgba(255, 255, 255, 0.1);
+  color: #ededed;
+}
+.dark input.text_input:focus,
+.dark textarea.textarea:focus {
+  background-color: rgba(255, 255, 255, 0.15);
+  color: #ededed;
+}
+.light input.text_input,
+.light textarea.textarea {
+  background-color: rgba(0, 0, 0, 0.05);
+  color: #ededed;
+  color: #676767;
+}
+.light input.text_input:focus,
+.light textarea.textarea:focus {
+  background-color: rgba(0, 0, 0, 0.07);
+  color: #ededed;
+  color: #676767;
+}
+.mk-background-stretch {
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+a {
+  -webkit-transition: color 0.2s ease-in;
+  -moz-transition: color 0.2s ease-in;
+  -o-transition: color 0.2s ease-in;
+  transition: color 0.2s ease-in;
+}
+.blog_meta .blog_post_type,
+.newspaper_top_meta .blog_post_type,
+.blog_pagination a,
+.filter_portfolio a,
+.flex-direction-nav li a,
+.portfolio_single_pagination a,
+div.anythingSlider .arrow a,
+.widget_search .search_button,
+.client_slider .jcarousel-next-vertical,
+.client_slider .jcarousel-prev-vertical,
+.anythingControls .arrow,
+.scrolltop_button,
+.meta_time,
+.widget_social a,
+#toolbar_social ul li a,
+#cboxPrevious,
+#cboxNext,
+.hyperlink_icon,
+.plus_icon,
+.widget_sub_navigation a,
+#side_social ul li a,
+.ls-nav-prev,
+.ls-nav-next,
+.swipe-slideshow-navigation,
+.mk-employeee-networks li a {
+  -webkit-transition: background-color 0.3s ease, border 0.2s ease, color 0.2s ease, opacity 0.2s ease-in-out;
+  -moz-transition: background-color 0.3s ease, border 0.2s ease, color 0.2s ease, opacity 0.2s ease-in-out;
+  -ms-transition: background-color 0.3s ease, border 0.2s ease, color 0.2s ease, opacity 0.2s ease-in-out;
+  -o-transition: background-color 0.3s ease, border 0.2s ease, color 0.2s ease, opacity 0.2s ease-in-out;
+  transition: background-color 0.3s ease, border 0.2s ease, color 0.2s ease, opacity 0.2s ease-in-out;
+}
+.portfolio_plus_icon_newspaper,
+.portfolio_arrow_icon_newspaper,
+.portfolio_overlay_newspaper,
+.mk-edge-next,
+.mk-edge-prev {
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
+}
+.mk-grid {
+  width: 100%;
+  min-width: 755px;
+  max-width: 1140px;
+  margin: 0 auto;
+  position: relative;
+}
+.mk-grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.mk-grid,
+.mk-grid div,
+.mk-grid div,
+.mk-grid article,
+*:after,
+*:before,
+.widget_search .text_input {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+@media handheld, only screen and (max-width: 767px) {
+  .mk-grid {
+    width: 100%;
+    min-width: 0;
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}
+#theme-page {
+  overflow: hidden;
+}
+#theme-page .theme-page-wrapper {
+  margin: 10px auto;
+}
+#theme-page .theme-page-wrapper #mk-sidebar {
+  position: relative;
+}
+#theme-page .theme-page-wrapper.right-layout #mk-sidebar {
+  float: right;
+  width: 29%;
+}
+#theme-page .theme-page-wrapper.left-layout #mk-sidebar {
+  float: left;
+  width: 29%;
+}
+#theme-page .theme-page-wrapper.right-layout .theme-content {
+  float: left;
+  width: 71%;
+  padding: 25px 15px;
+}
+#theme-page .theme-page-wrapper.left-layout .theme-content {
+  float: right;
+  width: 71%;
+  padding: 25px 15px;
+}
+#theme-page .theme-page-wrapper.full-layout .theme-content {
+  padding: 25px 15px;
+}
+#theme-page .theme-page-wrapper.right-layout .sidebar-wrapper {
+  padding: 25px 20px 30px 30px;
+}
+#theme-page .theme-page-wrapper.left-layout .sidebar-wrapper {
+  padding: 25px 30px 30px 20px;
+}
+* html #theme-page,
+* html #mk-sidebar {
+  display: inline;
+}
+.no-margin-padding {
+  margin: 0 auto !important;
+  padding: 0 !important;
+}
+@media handheld, only screen and (max-width: 767px) {
+  .theme-page-wrapper .theme-content {
+    width: 100% !important;
+    float: none !important;
+    padding: 0 !important;
+  }
+  .theme-page-wrapper {
+    padding-right: 20px !important;
+    padding-left: 5px !important;
+  }
+  #theme-page .theme-page-wrapper #mk-sidebar {
+    width: 100% !important;
+    float: none !important;
+    padding: 0 !important;
+  }
+  #theme-page .theme-page-wrapper #mk-sidebar .sidebar-wrapper {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+  }
+}
+.client_slider_enabled #theme-page {
+  padding-bottom: 1px;
+}
+.one_half,
+.one_third,
+.two_third,
+.three_fourth,
+.one_fourth,
+.one_fifth,
+.two_fifth,
+.three_fifth,
+.four_fifth,
+.one_sixth,
+.five_sixth {
+  position: relative;
+  float: left;
+  margin-right: 4%;
+}
+.one_half {
+  width: 48%;
+}
+.one_third {
+  width: 30.6666%;
+}
+.two_third {
+  width: 65.3332%;
+}
+.one_fourth {
+  width: 22%;
+}
+.two_fourth {
+  width: 48%;
+}
+.three_fourth {
+  width: 74%;
+}
+.one_fifth {
+  width: 16.8%;
+}
+.two_fifth {
+  width: 37.6%;
+}
+.three_fifth {
+  width: 58.4%;
+}
+.four_fifth {
+  width: 79.2%;
+}
+.one_sixth {
+  width: 13.3333%;
+}
+.two_sixth {
+  width: 30.6666%;
+}
+.three_sixth {
+  width: 47.9998%;
+}
+.four_sixth {
+  width: 65.3332%;
+}
+.five_sixth {
+  width: 82.6665%;
+}
+.last {
+  clear: right;
+  margin-right: 0 !important;
+}
+.one_half .one_half {
+  margin-right: 8.3333%;
+  width: 45.8333%;
+}
+.one_half .one_third {
+  margin-right: 8.3333%;
+  width: 27.7778%;
+}
+.one_half .two_third {
+  margin-right: 8.3333%;
+  width: 63.8889%;
+}
+.two_third .one_third {
+  margin-right: 6.1224%;
+  width: 29.2517%;
+}
+.two_third .two_third {
+  margin-right: 6.1224%;
+  width: 64.6258%;
+}
+.two_third .one_fourth {
+  margin-right: 6.1224%;
+  width: 20.4082%;
+}
+.wpb_row {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+/* Grid with fluid columns */
+.vc_row-fluid {
+  width: 100%;
+  *zoom: 1;
+}
+.vc_row-fluid:before,
+.vc_row-fluid:after {
+  display: table;
+  content: "";
+}
+.vc_row-fluid:after {
+  clear: both;
+}
+.vc_row-fluid [class*="vc_span"] {
+  display: block;
+  width: 100%;
+  min-height: 5px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+  margin-left: 2.5%;
+}
+.vc_row-fluid [class*="vc_span"]:first-child {
+  margin-left: 0;
+}
+.vc_row-fluid .vc_span12,
+.wpb_teaser_grid.wpb_carousel .vc_span12 {
+  width: 100%;
+}
+.vc_row-fluid .vc_span11 {
+  width: 91.45833333333334%;
+}
+.vc_row-fluid .vc_span10 {
+  width: 82.91666666666667%;
+}
+.vc_row-fluid .vc_span9 {
+  width: 74.375%;
+}
+.vc_row-fluid .vc_span8 {
+  width: 65.83333333333334%;
+}
+.vc_row-fluid .vc_span7 {
+  width: 57.29166666666667%;
+}
+.vc_row-fluid .vc_span6,
+.wpb_teaser_grid.wpb_carousel .vc_span6 {
+  width: 48.75%;
+}
+.vc_row-fluid .vc_span5 {
+  width: 40.208333333333336%;
+}
+.vc_row-fluid .vc_span4,
+.wpb_teaser_grid.wpb_carousel .vc_span4 {
+  width: 31.666666666666668%;
+}
+.vc_row-fluid .vc_span3,
+.wpb_teaser_grid.wpb_carousel .vc_span3 {
+  width: 23.125%;
+}
+.vc_row-fluid .vc_span2 {
+  width: 14.583333333333334%;
+}
+.vc_row-fluid .vc_span1 {
+  width: 6.041666666666667%;
+}
+@media handheld, only screen and (max-width: 770px) {
+  .vc_row-fluid [class*="vc_span"] {
+    width: auto;
+    float: none;
+    margin-left: 0 !important;
+  }
+  .row-fluid .first-column {
+    clear: both;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+  .row-fluid .last-column {
+    clear: both;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+.alignleft,
+img.alignleft {
+  display: inline;
+  float: left;
+  margin-right: 1.5em;
+}
+.alignright,
+img.alignright {
+  display: inline;
+  float: right;
+  margin-left: 1.5em;
+}
+.aligncenter,
+img.aligncenter {
+  display: block;
+  clear: both;
+  margin-right: auto;
+  margin-left: auto;
+}
+.alignnone,
+img.alignnone {
+  clear: both;
+}
+.wp-caption {
+  margin-bottom: 1.5em;
+  padding: 5px 0;
+  background: rgba(0, 0, 0, 0.05);
+  text-align: center;
+}
+.wp-caption img {
+  margin: 0;
+  padding: 0;
+  border: 0 none;
+}
+.wp-caption p.wp-caption-text {
+  margin: 0;
+  line-height: 1.5;
+}
+.wp-smiley {
+  margin: 0 !important;
+  max-height: 1em;
+}
+blockquote.left {
+  float: left;
+  margin-right: 20px;
+  margin-left: 0;
+  width: 33%;
+  text-align: right;
+}
+blockquote.right {
+  float: right;
+  margin-right: 0;
+  margin-left: 20px;
+  width: 33%;
+  text-align: left;
+}
+/* WP3.8 temporary fix
+-------------------------------------------------------------- */
+@media screen and (max-width: 600px) {
+  #wpadminbar {
+    position: fixed !important;
+  }
+}
+/*
+    ColorBox Core Style:
+    The following CSS is consistent between example themes and should not be altered.
+*/
+#colorbox,
+#cboxOverlay,
+#cboxWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 9999;
+  overflow: hidden;
+}
+#cboxOverlay {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+}
+#cboxMiddleLeft,
+#cboxBottomLeft {
+  clear: left;
+}
+#cboxContent {
+  position: relative;
+}
+#cboxLoadedContent {
+  overflow: auto;
+}
+#cboxTitle {
+  margin: 0;
+}
+#cboxLoadingOverlay,
+#cboxLoadingGraphic {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+#cboxPrevious,
+#cboxNext,
+#cboxClose,
+#cboxSlideshow {
+  cursor: pointer;
+}
+.cboxPhoto {
+  display: block;
+  float: left;
+  margin: auto;
+  border: 0;
+}
+.cboxIframe {
+  display: block;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+#colorbox,
+#cboxContent,
+#cboxLoadedContent {
+  box-sizing: content-box;
+}
+/* 
+    User Style:
+    Change the following styles to modify the appearance of ColorBox.  They are
+    ordered & tabbed in a way that represents the nesting of the generated HTML.
+*/
+#cboxOverlay {
+  background: #000;
+}
+#cboxContent {
+  overflow: hidden;
+  background: #fff;
+}
+.cboxIframe {
+  position: relative;
+  z-index: 10;
+  background: #f3f3f3;
+}
+#cboxError {
+  padding: 50px;
+  border: 1px solid #ccc;
+}
+#cboxLoadedContent {
+  margin-bottom: 52px;
+}
+#cboxTitle {
+  position: absolute;
+  bottom: 15px;
+  left: 20px;
+  color: #151515;
+}
+#cboxCurrent {
+  position: absolute;
+  top: 10px;
+  left: 14px;
+  color: #fff;
+  font-size: 11px;
+  opacity: 0.6;
+}
+#cboxSlideshow {
+  position: absolute;
+  right: 30px;
+  bottom: 4px;
+  color: #0092ef;
+}
+#cboxPrevious {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  z-index: 200;
+  margin-top: -43px;
+  width: 43px;
+  height: 43px;
+  outline: none;
+  border: none;
+  background: url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/next_prev_arrows.png) no-repeat 16px center;
+  text-indent: -9999px;
+}
+#cboxNext {
+  position: absolute;
+  top: 50%;
+  right: 0;
+  z-index: 200;
+  margin-top: -43px;
+  width: 43px;
+  height: 43px;
+  outline: none;
+  border: none;
+  background: url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/next_prev_arrows.png) no-repeat -45px center;
+  text-indent: -9999px;
+}
+#cboxLoadingOverlay {
+  background: #fff;
+}
+#cboxLoadingGraphic {
+  background: url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/loading.gif) no-repeat center center;
+}
+#cboxClose {
+  position: absolute;
+  right: 20px;
+  bottom: 15px;
+  width: 19px;
+  height: 19px;
+  outline: none;
+  border: none;
+  background: url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/lightbox_close.png) no-repeat left center;
+  text-indent: -9999px;
+}
+#cboxClose:hover {
+  background-position: right center;
+}
+#header.fixed_header {
+  z-index: 150;
+  -webkit-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.1);
+}
+
+#header {
+  width: 100%;
+}
+#header .mk-grid {
+  z-index: 98;
+}
+.boxed_layout #header.fixed_header {
+  right: auto !important;
+  left: auto;
+}
+#toolbar .mk-grid {
+  z-index: 99;
+  overflow: hidden;
+}
+#toolbar {
+  position: relative;
+  width: 100%;
+  height: 34px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  background: #313131;
+}
+/* LOGO & SITE DESCRIPTION */
+#header .logo {
+  display: block;
+  float: left;
+  transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+}
+.sticky-trigger-header #toolbar_social,
+.sticky-trigger-header .header_tagline {
+  margin-top: -50px !important;
+}
+.sticky-trigger-header .logo {
+  transform: scale(0.7);
+  -webkit-transform: scale(0.7);
+  -moz-transform: scale(0.7);
+  -ms-transform: scale(0.7);
+  -o-transform: scale(0.7);
+}
+.sticky-trigger-header .main_nav_style_1 #navigation > ul > li > a {
+  padding: 5px 2px 10px 2px !important;
+}
+#toolbar_social,
+.header_tagline {
+  transition: margin 0.2s ease-in-out;
+  -webkit-transition: margin 0.2s ease-in-out;
+  -moz-transition: margin 0.2s ease-in-out;
+  -ms-transition: margin 0.2s ease-in-out;
+  -o-transition: margin 0.2s ease-in-out;
+}
+#header .logo img {
+  float: left;
+}
+#header .site_description {
+  display: block;
+  clear: both;
+  font-size: 12px;
+}
+#header .site_name {
+  display: block;
+  line-height: 120%;
+}
+#toolbar_social {
+  position: relative;
+  z-index: 90;
+  float: right;
+  margin: 10px 10px 0 0;
+}
+#toolbar_social ul,
+#toolbar_social li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  line-height: 10px;
+}
+#toolbar_social ul li {
+  display: inline;
+}
+#toolbar_social ul li a {
+  width: 24px;
+  height: 24px;
+  opacity: 0.2;
+}
+#toolbar_social ul li a:hover {
+  opacity: 0.6;
+}
+.header_tagline {
+  display: inline-block;
+  float: right;
+  padding: 10px 20px 0 0;
+  text-align: right;
+}
+@media only screen and (max-width: 1024px) {
+  #header .logo {
+    margin: 0 auto !important;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  #side_social {
+    display: none;
+  }
+}
+#side_social {
+  position: fixed;
+  top: 50%;
+  z-index: 110;
+}
+#side_social.left {
+  left: 0;
+}
+#side_social.right {
+  right: 0;
+}
+#side_social ul,
+#side_social ul li {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+#side_social ul li {
+  display: block;
+}
+#side_social ul li a {
+  display: block;
+  margin: 0;
+  padding: 13px 13px 9px 13px;
+  background-color: #444444;
+}
+#side_social ul li a.rss:hover {
+  background-color: #e97d24;
+}
+#side_social ul li a.twitter:hover {
+  background-color: #00adec;
+}
+#side_social ul li a.facebook:hover {
+  background-color: #3a5a97;
+}
+#side_social ul li a.linkedin:hover {
+  background-color: #0076a9;
+}
+#side_social ul li a.dribbble:hover {
+  background-color: #d3306e;
+}
+#side_social ul li a.google:hover {
+  background-color: #c23b2b;
+}
+#side_social ul li a.pinterest:hover {
+  background-color: #ad2e25;
+}
+#side_social ul li a.delicious:hover {
+  background-color: #0001fe;
+}
+#side_social ul li a.digg:hover {
+  background-color: #1b5891;
+}
+#side_social ul li a.flickr:hover {
+  background-color: #ff0083;
+}
+#side_social ul li a.deviantart:hover {
+  background-color: #5f7a6a;
+}
+#side_social ul li a.tumblr:hover {
+  background-color: #395777;
+}
+#side_social ul li a.stumble:hover {
+  background-color: #de470c;
+}
+#side_social ul li a.blogger:hover {
+  background-color: #fa6700;
+}
+#side_social ul li a.behance:hover {
+  background-color: #035dfb;
+}
+#side_social ul li a.lastfm:hover {
+  background-color: #c71c05;
+}
+#side_social ul li a.skype:hover {
+  background-color: #3bc1f4;
+}
+#side_social ul li a.vimeo:hover {
+  background-color: #4ba8c0;
+}
+#side_social ul li a.wordpress:hover {
+  background-color: #2998c3;
+}
+#side_social ul li a.yahoo:hover {
+  background-color: #650f6a;
+}
+#side_social ul li a.youtube:hover {
+  background-color: #fe1511;
+}
+#navigation_wrapper {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  z-index: 80;
+}
+#navigation {
+  position: relative;
+  z-index: 200;
+  display: inline;
+  margin: 0;
+  padding: 0;
+}
+#navigation ul {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+#navigation ul li {
+  position: relative;
+  display: inline;
+  float: left;
+  margin: 0;
+}
+#navigation ul li a {
+  display: block;
+  overflow: hidden;
+  margin: 0 15px;
+  padding: 12px 2px 20px 2px;
+  text-decoration: none;
+  transition: all 0.2s ease-in-out;
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  -ms-transition: all 0.2s ease-in-out;
+  -o-transition: all 0.2s ease-in-out;
+}
+#navigation ul li > a {
+  border-bottom: 3px solid transparent;
+}
+#navigation ul li ul li > a,
+#navigation ul li ul li > a:hover {
+  border: none !important;
+}
+#navigation ul li a {
+  margin: 0 !important;
+}
+#navigation ul li {
+  margin: 0 15px;
+}
+.main_nav_style_2 #navigation ul li ul {
+  border: none !important;
+}
+.main_nav_style_2 #navigation > ul > li {
+  margin: 0 3px;
+}
+.main_nav_style_2 #navigation ul li > a {
+  border: none !important;
+}
+.main_nav_style_2 #navigation ul li a {
+  padding: 12px 14px 15px;
+}
+.main_nav_style_2 #navigation ul li ul {
+  margin-top: 0 !important;
+}
+* html #navigation ul li a {
+  display: inline-block;
+}
+#navigation ul li a {
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+#navigation ul li ul {
+  position: absolute;
+  left: 0;
+  z-index: 200;
+  display: block;
+  visibility: hidden;
+  margin-top: -3px;
+  padding: 0;
+  padding-bottom: 10px;
+  width: 230px;
+  background: url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/overlay_85.png);
+}
+#navigation ul li ul li {
+  display: list-item;
+  float: none;
+  margin: 0;
+  padding: 0;
+  width: 230px;
+}
+#navigation ul li ul li a:after {
+  display: block;
+  margin: 8px 0 0 0;
+  width: 70px;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.1);
+  content: "";
+}
+#navigation ul li ul li:last-child > a:after {
+  width: 0 !important;
+  height: 0 !important;
+}
+#navigation ul li ul li ul {
+  top: 0;
+  padding: 0;
+  width: 230px;
+}
+#navigation ul li ul li a {
+  margin: 0;
+  padding: 8px 10px 0 10px !important;
+  width: 210px;
+  text-transform: none;
+  font-weight: normal;
+}
+#navigation ul ul li a,
+#navigation ul ul li a:link,
+#navigation ul ul li a:visited {
+  height: 100%;
+}
+#navigation ul li ul li a:hover,
+#navigation ul ul li:hover > a {
+  width: 210px;
+}
+#navigation ul ul ul {
+  margin-top: -3px;
+}
+#responsive_navigation {
+  display: none;
+  clear: both;
+  width: 100%;
+  text-align: center;
+}
+#responsive_navigation select {
+  width: 300px;
+  border-right: none !important;
+  border-left: none !important;
+}
+.customStyleSelectBox {
+  overflow: hidden;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 46px;
+  background: rgba(0, 0, 0, 0.3) url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/responsive_nav_bg.png) right center no-repeat;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 11px;
+  line-height: 46px;
+}
+.mk-edge-slider .swiper-slide {
+  position: relative;
+  background-position: center;
+  background-size: cover;
+  background-repeat: repeat;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+}
+.mk-edge-slider .swiper-slide .edge-slide-content {
+  margin-top: 120px;
+}
+.mk-edge-slider .swiper-slide.left_top .edge-slide-content,
+.mk-edge-slider .swiper-slide.center_top .edge-slide-content,
+.mk-edge-slider .swiper-slide.right_top .edge-slide-content {
+  margin-top: 100px;
+}
+.mk-edge-slider .swiper-slide.center_top,
+.mk-edge-slider .swiper-slide.center_center,
+.mk-edge-slider .swiper-slide.center_bottom {
+  text-align: center;
+}
+.mk-edge-slider .swiper-slide.center_top .edge-slide-content h3:after,
+.mk-edge-slider .swiper-slide.center_center .edge-slide-content h3:after,
+.mk-edge-slider .swiper-slide.center_bottom .edge-slide-content h3:after {
+  margin: 10px auto 20px;
+}
+.mk-edge-slider .swiper-slide.center_top .edge-slide-content,
+.mk-edge-slider .swiper-slide.center_center .edge-slide-content,
+.mk-edge-slider .swiper-slide.center_bottom .edge-slide-content {
+  margin-right: auto;
+  margin-left: auto;
+}
+.mk-edge-slider .swiper-slide.right_top .edge-slide-content,
+.mk-edge-slider .swiper-slide.right_center .edge-slide-content,
+.mk-edge-slider .swiper-slide.right_bottom .edge-slide-content {
+  float: right;
+}
+.mk-edge-slider:hover .mk-edge-next,
+.mk-edge-slider:hover .mk-edge-prev {
+  zoom: 1;
+  filter: alpha(opacity=100);
+  opacity: 1;
+}
+.mk-edge-slider .mk-edge-next,
+.mk-edge-slider .mk-edge-prev {
+  position: absolute;
+  top: 50%;
+  z-index: 10;
+  width: 60px;
+  height: 60px;
+  line-height: 60px;
+  text-align: center;
+  margin-top: -30px;
+  cursor: pointer;
+  zoom: 1;
+  filter: alpha(opacity=0);
+  opacity: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+.mk-edge-slider .mk-edge-next i,
+.mk-edge-slider .mk-edge-prev i {
+  font-size: 16px;
+  line-height: 60px;
+  color: #fff;
+}
+.mk-edge-slider .mk-edge-next {
+  right: 70px;
+  background-position: right center;
+}
+.mk-edge-slider .mk-edge-prev {
+  left: 70px;
+  background-position: left center;
+}
+.mk-edge-slider .edge-slide-content {
+  width: 60%;
+}
+.mk-edge-slider .edge-slide-content.caption-light h3,
+.mk-edge-slider .edge-slide-content.caption-light p {
+  color: #fff !important;
+}
+.mk-edge-slider .edge-slide-content.caption-light h3:after {
+  background-color: #fff;
+}
+.mk-edge-slider .edge-slide-content.caption-dark h3,
+.mk-edge-slider .edge-slide-content.caption-dark p {
+  color: #252525 !important;
+}
+.mk-edge-slider .edge-slide-content.caption-dark h3:after {
+  background-color: #252525;
+}
+.mk-edge-slider h3 {
+  margin-bottom: 20px;
+  font-weight: 400 !important;
+  text-transform: none;
+  font-size: 40px !important;
+  transition: all 0.35s ease-in-out 0.8s;
+  -webkit-transition: all 0.35s ease-in-out 0.8s;
+  -moz-transition: all 0.35s ease-in-out 0.8s;
+  -ms-transition: all 0.35s ease-in-out 0.8s;
+  -o-transition: all 0.35s ease-in-out 0.8s;
+}
+.mk-edge-slider h3:after {
+  display: block;
+  margin: 10px 0 20px 0;
+  width: 70px;
+  height: 4px;
+  content: "";
+}
+.mk-edge-slider p {
+  font-size: 13px !important;
+  line-height: 24px !important;
+  transition: all 0.35s ease-in-out 0.9s;
+  -webkit-transition: all 0.35s ease-in-out 0.9s;
+  -moz-transition: all 0.35s ease-in-out 0.9s;
+  -ms-transition: all 0.35s ease-in-out 0.9s;
+  -o-transition: all 0.35s ease-in-out 0.9s;
+}
+.mk-edge-slider .edge-buttons {
+  transition: all 0.35s ease-in-out 1s;
+  -webkit-transition: all 0.35s ease-in-out 1s;
+  -moz-transition: all 0.35s ease-in-out 1s;
+  -ms-transition: all 0.35s ease-in-out 1s;
+  -o-transition: all 0.35s ease-in-out 1s;
+}
+.mk-edge-slider h3,
+.mk-edge-slider p,
+.mk-edge-slider .edge-buttons {
+  -webkit-transform: translate(0, 70px);
+  -moz-transform: translate(0, 70px);
+  -ms-transform: translate(0, 70px);
+  -o-transform: translate(0, 70px);
+  zoom: 1;
+  filter: alpha(opacity=0);
+  opacity: 0;
+}
+.mk-edge-slider .swiper-slide-active h3,
+.mk-edge-slider .swiper-slide-active p,
+.mk-edge-slider .swiper-slide-active .edge-buttons {
+  -webkit-transform: translate(0, 0);
+  -moz-transform: translate(0, 0);
+  -ms-transform: translate(0, 0);
+  -o-transform: translate(0, 0);
+  zoom: 1;
+  filter: alpha(opacity=100);
+  opacity: 1;
+}
+.mk-edge-slider .edge-slider-holder {
+  z-index: 10;
+}
+.mk-edge-slider .edge-slider-loading {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 20;
+  left: 0;
+  top: 0;
+  background: #ffffff url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/edge-loading.gif) center center no-repeat;
+}
+@media handheld, only screen and (max-width: 1140px) {
+  .mk-edge-slider .mk-grid {
+    padding: 0 20px;
+  }
+  .mk-edge-slider h3 {
+    font-size: 40px  !important;
+  }
+  .mk-edge-slider p {
+    font-weight: 400  !important;
+    font-size: 20px  !important;
+    line-height: 34px  !important;
+  }
+  .mk-edge-slider .edge-slide-content {
+    width: 80%;
+  }
+}
+@media handheld, only screen and (max-width: 780px) {
+  .mk-edge-slider .mk-grid {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0 10px;
+  }
+  .mk-edge-slider .mk-edge-next,
+  .mk-edge-slider .mk-edge-prev {
+    display: none;
+  }
+  .mk-edge-slider h3 {
+    font-weight: 700  !important;
+    font-size: 22px  !important;
+  }
+  .mk-edge-slider p {
+    font-size: 14px  !important;
+    line-height: 22px  !important;
+  }
+  .mk-edge-slider .edge-slide-content {
+    width: 100%;
+  }
+}
+#introduce {
+  position: relative;
+}
+.introduce_shadows {
+  padding: 0 30px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-right: 0;
+  border-left: 0;
+  background: url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/introduce_top_shadow.png) top center no-repeat;
+}
+.introduce_wrapper {
+  margin: 0 auto;
+  padding: 40px 15px 25px !important;
+}
+#introduce h1 {
+  margin-bottom: 10px;
+  font-weight: 800;
+}
+#introduce h1.title_center {
+  display: inline-block;
+  margin: 0;
+  width: 100%;
+  text-align: center;
+}
+#introduce h1.title_center:before,
+#introduce h1.title_center:after {
+  display: inline-block;
+  margin-bottom: 10px;
+  width: 120px;
+  height: 1px;
+  content: "";
+  opacity: 0.7;
+}
+#introduce h1.title_center:after {
+  margin-left: 10px;
+}
+#introduce h1.title_center:before {
+  margin-right: 10px;
+}
+#introduce h4 {
+  margin-bottom: 0;
+  font-weight: normal !important;
+}
+.entry_edit a {
+  display: inline-block;
+  margin-left: 15px;
+  width: 16px;
+  height: 16px;
+  background: url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/edit_icon.png);
+}
+.creative_introduce .mk-grid {
+  padding: 0px 15px;
+}
+.creative_introduce .introduce_dominant,
+.creative_introduce .introduce_highlight {
+  margin-bottom: 10px !important;
+  word-wrap: break-word;
+}
+.creative_introduce .introduce_subtitle {
+  margin-top: 35px;
+  font-weight: normal !important;
+  font-size: 18px  !important;
+}
+.creative_introduce .introduce_subtitle:after {
+  display: block;
+  margin: 15px 0 30px 0;
+  width: 140px;
+  height: 4px;
+  background: rgba(0, 0, 0, 0.2);
+  content: "";
+}
+.creative_introduce .introduce_desc {
+  margin-bottom: 0 !important;
+  color: #666666  !important;
+  font-style: italic !important;
+  font-size: 12px  !important;
+}
+@media only screen and (max-width: 768px) {
+  #introduce h1 {
+    font-size: 24px !important;
+  }
+  #introduce h1.title_center:before,
+  #introduce h1.title_center:after {
+    display: none!important;
+  }
+}
+.anythingslider .mk-grid {
+  margin: 0 auto !important;
+  padding: 0 !important;
+}
+.anythingslider {
+  position: relative;
+  z-index: 70;
+  display: block;
+  overflow: visible !important;
+  margin: 0 auto 0 auto;
+}
+.anythingslider_wrapper {
+  position: relative;
+  overflow: hidden;
+}
+#anything_slider_loading {
+  position: absolute;
+  top: 0px;
+  z-index: 65;
+  background: url("http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/loading.gif") no-repeat 50% 50%;
+}
+.boxed_layout .mk-grid.with_desc_wrapper {
+  padding: 0 30px !important;
+}
+.anything_item {
+  position: relative;
+  width: 100%;
+}
+#anything_slider {
+  display: none;
+}
+.anythingSlider {
+  position: relative;
+  display: block;
+  overflow: visible !important;
+  margin: 0 auto;
+  padding: 0;
+}
+.anythingSlider .anythingBase {
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: visible !important;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+  list-style: none;
+}
+.anythingSlider .anythingWindow {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+}
+.anythingBase .panel {
+  display: block;
+  float: left;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  background: transparent;
+}
+.anythingBase .vertical .panel {
+  float: none;
+}
+.anythingSlider .arrow span {
+  display: block;
+  visibility: hidden;
+}
+.anythingSlider .arrow.disabled {
+  display: none;
+}
+.anythingSlider .fade .panel {
+  position: absolute;
+  top: 0;
+  left: 0;
+  float: none;
+  opacity: 0;
+  filter: alpha(opacity=0);
+}
+.anythingSlider .fade .activePage {
+  z-index: 2;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+/* Navigation Arrows */
+.control_minimal_style .anythingSlider .arrow {
+  top: 50%;
+  bottom: auto;
+  margin-top: -40px;
+}
+div.anythingSlider .arrow {
+  position: absolute;
+  bottom: 0;
+  z-index: 100;
+  display: block;
+}
+div.anythingSlider .arrow a {
+  display: block;
+  width: 40px;
+  height: 40px;
+  outline: 0;
+  background: #f1f1f1 url('http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/slider_arrows.png') no-repeat;
+  text-align: center;
+}
+div.anythingSlider .arrow a:hover {
+  opacity: 1;
+}
+/* Navigation Links */
+div.anythingSlider .anythingControls {
+  position: relative;
+  z-index: 70;
+  outline: 0;
+}
+.control_minimal_style .anythingControls ul {
+  width: 100%;
+  background: none !important;
+  text-align: center;
+}
+.anythingControls ul {
+  margin: -40px 0 0 0;
+  padding: 18px 20px 0 0;
+  width: 30%;
+  height: 25px;
+  text-align: right;
+}
+div.anythingSlider .anythingControls ul li {
+  display: inline;
+}
+div.anythingSlider .anythingControls ul a {
+  position: relative;
+  z-index: 60;
+  display: inline-block;
+  margin: 0;
+  width: 11px;
+  height: 11px;
+  background-image: url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/slider_pagination.png);
+  background-position: -21px center;
+  text-align: left;
+  text-indent: -100000px;
+}
+div.anythingSlider .anythingControls ul a:hover {
+  background-position: -42px center;
+}
+div.anythingSlider .anythingControls ul a.cur {
+  background-position: 0px center;
+}
+div.anythingSlider .anythingControls .anythingNavWindow {
+  float: left;
+  overflow: hidden;
+}
+div.anythingSlider .arrow a span {
+  display: block;
+  visibility: hidden;
+}
+div.anythingSlider .back {
+  left: 30%;
+  margin-left: 20px;
+}
+.control_minimal_style .anythingSlider .back {
+  left: 0;
+  margin: 0;
+}
+div.anythingSlider .back a {
+  background-position: left bottom;
+}
+div.anythingSlider .back a:hover {
+  background-position: right top;
+}
+div.anythingSlider .back.disabled {
+  display: none;
+}
+.control_minimal_style .anythingSlider .forward {
+  right: 0;
+  left: auto;
+  margin: 0;
+}
+div.anythingSlider .forward {
+  left: 30%;
+  margin-left: 63px;
+}
+div.anythingSlider .forward a {
+  background-position: left top;
+}
+div.anythingSlider .forward a:hover {
+  background-position: right bottom;
+}
+div.anythingSlider .forward.disabled {
+  display: none;
+}
+div.anythingSlider .full_image {
+  display: block;
+  margin: 0 auto;
+  padding: 0;
+  outline: 0;
+}
+div.anythingSlider .desc_box {
+  float: left;
+  margin-bottom: 60px;
+  width: 340px;
+  text-align: left;
+}
+.with_description .slide_image {
+  position: relative;
+  display: block;
+  float: right;
+  padding: 0;
+  outline: 0;
+}
+div.anythingSlider .video-wrapper {
+  float: right;
+  margin: 0;
+  width: 530px;
+}
+div.anythingSlider .full_width .video-wrapper {
+  width: 100%;
+  height: 410px;
+}
+div.anythingSlider .full_width .video-wrapper .video-container {
+  padding-bottom: 22%;
+}
+div.anythingSlider .with_caption .desc_box {
+  width: 400px;
+}
+div.anythingSlider .with_caption_wrapper {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  margin-left: -480px !important;
+}
+.with_description.anything_item {
+  overflow: hidden;
+}
+div.anythingSlider h2 {
+  font-weight: normal !important;
+  font-size: 36px !important;
+}
+div.anythingSlider p {
+  margin-bottom: 15px;
+  font-size: 11px !important;
+  line-height: 18px !important;
+  opacity: 0.7;
+}
+div.anythingSlider p:before {
+  display: block;
+  margin-bottom: 10px;
+  width: 70px;
+  height: 4px;
+  background: #fff;
+  content: " ";
+}
+.boxed.flexslider_slideshow {
+  margin: 20px auto;
+}
+@media only screen and (max-width: 1000px) {
+  .flexslider_slideshow {
+    margin-top: 0;
+  }
+}
+/* Control Nav */
+.flexslider_slideshow.fade .flex-control-nav {
+  bottom: -35px;
+}
+.flexslider_slideshow.slide .flex-control-nav {
+  bottom: 0px;
+}
+.flexslider_slideshow .flex-control-nav {
+  position: absolute;
+  z-index: 50;
+  display: block !important;
+  width: 100%;
+  text-align: center;
+}
+.flexslider_slideshow .flex-control-nav li {
+  display: inline-block;
+  margin: 0 0 0 8px;
+  zoom: 1;
+  *display: inline;
+}
+.flexslider_slideshow .flexslider .slides img {
+  text-align: center;
+  margin: 0 auto;
+}
+.flexslider_slideshow .flex-control-nav li:first-child {
+  margin: 0;
+}
+.flexslider_slideshow .flex-control-nav li a {
+  display: block;
+  width: 11px;
+  height: 11px;
+  background-image: url(http://aquabeautique.com/wp_sans/wp-content/themes/lucidpress/images/slider_pagination_dark.png);
+  background-position: -21px center;
+  text-indent: -999em;
+  cursor: pointer;
+}
+.flexslider_slideshow .flex-control-nav li a:hover {
+  background-position: -42px center;
+}
+.flexslider_slideshow .flex-control-nav li a.active {
+  background-position: 0 center;
+  cursor: default;
+}
+.flexslider_slideshow .flex-caption {
+  background: none;
+  zoom: 1;
+}
+.flexslider_slideshow .flex-caption {
+  position: absolute;
+  bottom: 30px;
+  left: 0px;
+  margin: 0;
+  padding: 25px;
+  width: 400px;
+  background: rgba(0, 0, 0, 0.3);
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.3);
+}
+.boxed.flexslider_slideshow .flex-caption {
+  left: 50px;
+}
+.flexslider_slideshow .flex-caption h2,
+.flexslider_slideshow .flex-caption p {
+  color: #fff !important;
+}
+.flexslider_slideshow .flex-caption .mk-button {
+  margin: 0;
+}
+@media only screen and (max-width: 768px) {
+  .flex-caption {
+    display: none;
+  }
+}
+@media only screen and (max-width: 1020px) {
+  .boxed.flexslider_slideshow {
+    margin: 0;
+  }
+}
+/* ===============================================================
+Basic Swiper Styles 
+================================================================*/
+.swiper-container {
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+  margin: 0 auto;
+  -webkit-backface-visibility: hidden;
+  -moz-backface-visibility: hidden;
+  -ms-backface-visibility: hidden;
+  -o-backface-visibility: hidden;
+  backface-visibility: hidden;
+  /* Fix of Webkit flickering */
+}
+.swiper-wrapper {
+  position: relative;
+  width: 100%;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-timing-function: ease;
+  -ms-transition-timing-function: ease;
+  -o-transition-timing-function: ease;
+  transition-timing-function: ease;
+  -webkit-transition-duration: 0s;
+  -moz-transition-duration: 0s;
+  -ms-transition-duration: 0s;
+  -o-transition-duration: 0s;
+  transition-duration: 0s;
+  -webkit-transition-property: -webkit-transform, left, top;
+  -moz-transition-property: -moz-transform, left, top;
+  -ms-transition-property: -ms-transform, left, top;
+  -o-transition-property: -o-transform, left, top;
+  transition-property: transform, left, top;
+  -webkit-transform: translate3d(0px, 0, 0);
+  -moz-transform: translate3d(0px, 0, 0);
+  -ms-transform: translate3d(0px, 0, 0);
+  -o-transform: translate3d(0px, 0, 0);
+  -o-transform: translate(0px, 0px);
+  transform: translate3d(0px, 0, 0);
+}
+.swiper-free-mode > .swiper-wrapper {
+  margin: 0 auto;
+  -webkit-transition-timing-function: ease-out;
+  -moz-transition-timing-function: ease-out;
+  -ms-transition-timing-function: ease-out;
+  -o-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.swiper-slide {
+  float: left;
+}
+/* IE10 Windows Phone 8 Fixes */
+.swiper-wp8-horizontal {
+  -ms-touch-action: pan-y;
+}
+.swiper-wp8-vertical {
+  -ms-touch-action: pan-x;
+}
+/* ===============================================================
+Your custom styles, here you need to specify container's and slide's
+sizes, pagination, etc.
+================================================================*/
+.swiper-container {
+  /* height: 100px; */
+  /* Specify Swiper's Size: */
+  /* width:200px; */
+}
+.swiper-slide {
+  /* height: 100%; */
+  /* Specify Slides's Size: */
+  /* width: 100%; */
+}
+.swiper-slide-active {
+  /* Specific active slide styling: */
+}
+.swiper-slide-visible {
+  /* Specific visible slide styling: */
+}
+/* ===============================================================
+Pagination Styles
+================================================================*/
+.swiper-pagination-switch {
+  /* Stylize pagination button: */
+}
+.swiper-active-switch {
+  /* Specific active button style: */
+}
+.swiper-visible-switch {
+  /* Specific visible button style: */
+}
+/* Client Box */
+.client_slider {
+  position: absolute;
+  top: -149px;
+  left: -10px;
+  overflow: hidden;
+  margin: 0 auto;
+  width: 100%;
+  height: 150px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  background: #fff;
+}
+@media handheld, only screen and (max-width: 1140px) {
+  .client_slider {
+    left: 0;
+  }
+  .client_slider .client_box_heading {
+    display: none;
+  }
+}
+.client_box_container .swiper-slide {
+  margin: 0;
+  padding: 0;
+}
+.client_box_container .swiper-slide .thumb {
+  display: block;
+  float: right;
+  width: 160px;
+  height: 150px;
+  border-left: 1px solid rgba(0, 0, 0, 0.2);
+}
+.client_box_heading {
+  display: inline-block;
+  float: left;
+  width: 200px;
+  height: 150px;
+}
+.client_box_heading .client_title {
+  display: block;
+  padding: 65px 20px 0 20px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.clients-navigation {
+  position: absolute;
+  top: 25px;
+  left: 85px;
+  width: 24px;
+  height: 24px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  border-radius: 30px;
+  background-color: #a2a2a2;
+  text-align: center;
+  line-height: 24px;
+  cursor: pointer;
+}
+.clients-navigation i {
+  color: #fff;
+  font-size: 16px;
+  line-height: 24px;
+}
+.clients-navigation.mk-swiper-next {
+  top: 100px;
+}
+/*

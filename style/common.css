@@ -1,0 +1,61 @@
+@charset "utf-8";
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+/* 선명한 텍스트를 위한 기본 설정 */
+body, td, th, input, select, textarea {
+    font-family: 'Noto Sans KR', sans-serif !important;
+    letter-spacing: -0.04em; /* 자간을 좁혀 더 선명하게 */
+    color: #333;
+    -webkit-font-smoothing: antialiased; /* 맥/아이폰에서 글자 선명하게 */
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    line-height: 1.5;
+}
+
+/* 링크 스타일 */
+a { color: inherit; text-decoration: none; transition: color 0.2s ease; }
+a:hover { color: #004c45; }
+
+/* 브랜드 컬러 정의 */
+.brand-green { color: #004c45 !important; }
+.brand-gold { color: #c5a059 !important; }
+
+/* 헤더 메뉴 텍스트 */
+.Dn01 { 
+    font-size: 18px; 
+    font-weight: 700; 
+    color: #333; 
+    display: inline-block; 
+    padding: 15px 0;
+}
+
+/* 푸터 전용 선명한 텍스트 스타일 */
+.footer-sharp-text {
+    color: #eeeeee !important; /* 대비를 높인 밝은 회색/흰색 */
+    font-size: 14px !important;
+    font-weight: 400 !important;
+    line-height: 1.8;
+    letter-spacing: -0.02em;
+    -webkit-font-smoothing: antialiased;
+}
+.footer-sharp-text b {
+    color: #ffffff !important;
+    font-weight: 700;
+}
+.footer-link {
+    color: #bbbbbb !important;
+    transition: color 0.2s;
+}
+.footer-link:hover {
+    color: #c5a059 !important; /* 호버 시 골드 포인트 */
+}
+
+/* 테이블 및 레이아웃 초기화 */
+table { border-collapse: collapse; }
+img { vertical-align: middle; border: 0; }

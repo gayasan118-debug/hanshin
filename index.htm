@@ -1,0 +1,145 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-ie">
+<head>
+<meta name="naver-site-verification" content="18b56638058ff9c1063d20a93a96661f63a321ae" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<meta name="description" content="평촌한신더휴 - 안양 평촌의 새로운 중심, 한신더휴 아파트 분양 안내 및 세대 정보.">
+<meta name="keywords" content="평촌한신더휴, 안양 아파트 분양, 평촌 분양, 한신더휴">
+<link rel="canonical" href="https://www.평촌한신더휴.com/">
+
+<!-- Open Graph / SNS 공유용 -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="평촌한신더휴">
+<meta property="og:description" content="안양 평촌의 새로운 중심, 평촌한신더휴 분양 안내.">
+<meta property="og:image" content="https://www.평촌한신더휴.com/board/photoimg/20260212_slider.jpg">
+<meta property="og:url" content="https://www.평촌한신더휴.com/">
+
+<title>평촌한신더휴</title>
+<link rel="stylesheet" href="style/common.css" type="text/css">
+<script type="text/javascript" src="script/jquery.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@4/dist/email.min.js"></script>
+<script type="text/javascript">
+   (function(){
+      // 여기에 발급받으신 Public Key를 입력하세요.
+      emailjs.init("ClFUoaELQQNLN8FPG");
+   })();
+</script>
+<script>
+function sendEmail(e) {
+    e.preventDefault();
+    
+    // 버튼 비활성화 (중복 클릭 방지)
+    const submitBtn = e.target.querySelector('input[type="submit"]');
+    submitBtn.value = "전송 중...";
+    submitBtn.disabled = true;
+
+    emailjs.sendForm('service_4ixy44u', 'template_a937uvw', e.target)
+        .then(function() {
+            alert('관심고객 등록이 완료되었습니다.');
+            e.target.reset();
+            submitBtn.value = "등록하기";
+            submitBtn.disabled = false;
+        }, function(error) {
+            alert('전송에 실패했습니다: ' + JSON.stringify(error));
+            submitBtn.value = "등록하기";
+            submitBtn.disabled = false;
+        });
+    return false;
+}
+</script>
+<style type='text/css'>
+body, td, th { font-family: 'Noto Sans KR', sans-serif !important; color: #333; }
+#header.fixed_header { background: #fff; border-bottom: 1px solid #eee; box-shadow: 0 2px 10px rgba(0,0,0,0.05); position: fixed; top: 0; width: 100%; z-index: 1000; }
+.Dn01 { font-size: 18px; font-weight: 700; color: #333; text-decoration: none; padding: 15px 0; display: inline-block; }
+.footer-sharp-text { color: #eeeeee !important; font-size: 14px !important; line-height: 1.8; }
+.footer-sharp-text b { color: #ffffff !important; font-weight: 700; }
+.footer-link { color: #bbbbbb !important; text-decoration: none; }
+</style>
+<script>
+// 모바일 접속 감지 및 리다이렉트
+if (/Mobi|Android|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent)) {
+    // 사용자가 명시적으로 PC버전을 요청하지 않은 경우에만 이동
+    if (document.location.search.indexOf("pc=1") === -1) {
+        location.href = "m/index.htm";
+    }
+}
+</script>
+<script>
+function MenuOutTD(obj) { obj.style.color = "#3d3d3d"; }
+function MenuOnTD(obj) { obj.style.color = "#004c45"; }
+</script>
+</head>
+<body>
+<header id="header" class="fixed_header" style="width:100%">
+  <div style="max-width:1200px; margin:0 auto; padding:20px 0;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="25%" align="left"><img src="board/photoimg/header_left.jpg" style="height:70px;" border="0"></td>
+        <td align="center"><a href="index.htm"><img src="board/photoimg/20250829190544.png" height="70" border="0"></a></td>
+        <td width="25%" align="right">
+          <span style="font-size:32px; font-weight:900; color:#004c45; letter-spacing:-1px;"><i class="fa fa-phone"></i> 1688-0458</span>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <div style="border-top:1px solid #f0f0f0; border-bottom:1px solid #f0f0f0; background:#fff;">
+    <div style="max-width:1200px; margin:0 auto;">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tr align="center">
+          <td height="60"><a href="index.htm" class="Dn01" style="color:#004c45;" onmouseover="MenuOnTD(this)" onmouseout="MenuOutTD(this)">메인</a></td>
+          <td><a href="page/index.htm?1" class="Dn01" onmouseover="MenuOnTD(this)" onmouseout="MenuOutTD(this)">사업개요</a></td>
+          <td><a href="page/index-1.htm?6" class="Dn01" onmouseover="MenuOnTD(this)" onmouseout="MenuOutTD(this)">프리미엄</a></td>
+          <td><a href="page/index-2.htm?2" class="Dn01" onmouseover="MenuOnTD(this)" onmouseout="MenuOutTD(this)">입지환경</a></td>
+          <td><a href="page/index-3.htm?4" class="Dn01" onmouseover="MenuOnTD(this)" onmouseout="MenuOutTD(this)">단지배치도</a></td>
+          <td><a href="page/index-4.htm?5" class="Dn01" onmouseover="MenuOnTD(this)" onmouseout="MenuOutTD(this)">세대안내</a></td>
+          <td><a href="page/index-6.htm?7" class="Dn01" onmouseover="MenuOnTD(this)" onmouseout="MenuOutTD(this)">홍보센터</a></td>
+          <td><a href="page/index-5.htm?3" class="Dn01" onmouseover="MenuOnTD(this)" onmouseout="MenuOutTD(this)">오시는길</a></td>
+        </tr>
+      </table>
+    </div>
+  </div>
+</header>
+
+<div style="padding-top:150px; text-align:center;">
+  <div style="max-width:1200px; margin:0 auto;">
+    <p align="center"><img src="board/photoimg/20260212_slider.jpg" width="1200"></p>
+    <p align="center" style="margin-top:40px;"><img src="board/photoimg/20250829191909-.jpg" width="1200"></p>
+  </div>
+</div>
+
+<footer style="background:#1a1a1a; padding:60px 0; margin-top:100px; border-top:1px solid #333;">
+  <div style="max-width:1200px; margin:0 auto;">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="left" class="footer-sharp-text">
+          <p style="margin-bottom:10px;"><b>시행:</b> 대동아아파트소규모재건축정비사업조합 (사업자등록번호: 402-82-25391) | <b>시공:</b> 한신공영(주) <img src="board/photoimg/hanshin_logo.png" style="height:25px; vertical-align:middle; margin-left:10px; background:#fff; padding:2px 5px; border-radius:3px;"></p>
+          <p><b>사업지 주소:</b> 경기도 안양시 만안구 안양동 190-11 | <b>문의:</b> 1688-0458 | <b>이메일:</b> mp1500@naver.com | <b>담당:</b> 신현희</p>
+        </td>
+        <td align="right" valign="bottom" class="footer-sharp-text">
+          <a href="mobile/index.htm" target="_blank" class="footer-link">모바일</a>
+        </td>
+      </tr>
+    </table>
+  </div>
+</footer>
+
+<div id="sh_stv" style="z-index:999;position:fixed;top:280px;right:20px;width:240px;">
+  <form name="quick_form" onsubmit="return sendEmail(event)">
+    <div style="padding:30px 25px; background:#004c45; border-radius:15px; box-shadow:0 10px 30px rgba(0,0,0,0.2); position:relative;">
+      <!-- 닫기 버튼 -->
+      <div onclick="document.getElementById('sh_stv').style.display='none';" style="position:absolute; top:15px; right:15px; color:#fff; cursor:pointer; font-size:20px; font-weight:bold; opacity:0.7; transition:opacity 0.2s;" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='0.7'">&times;</div>
+      
+      <h3 style="font-size:20px; color:#ffffff; font-weight:bold; margin-bottom:15px; text-align:center; letter-spacing:-1px;">관심고객등록</h3>
+      <p style="color:#bed3cf; font-size:13px; margin:10px 0 5px;">문의내용</p>
+      <textarea name="message" id="message" style="background:#fff; border:0; padding:10px; width:100%; height:80px; border-radius:5px; box-sizing:border-box;"></textarea>
+      <p style="color:#bed3cf; font-size:13px; margin:10px 0 5px;">성함</p>
+      <input type="text" name="from_name" id="from_name" required style="background:#fff; border:0; width:100%; height:35px; padding:0 10px; border-radius:5px; box-sizing:border-box;">
+      <p style="color:#bed3cf; font-size:13px; margin:10px 0 5px;">연락처</p>
+      <input type="text" name="contact_number" id="contact_number" required style="background:#fff; border:0; width:100%; height:35px; padding:0 10px; border-radius:5px; box-sizing:border-box;">
+      <input type="submit" value="등록하기" style="background:#c5a059; color:#fff; width:100%; height:45px; border:0; border-radius:5px; font-weight:bold; margin-top:15px; cursor:pointer; font-size:16px;">
+    </div>
+  </form>
+</div>
+</body>
+</html>

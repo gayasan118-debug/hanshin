@@ -1,0 +1,496 @@
+Uri: http://code.jquery.com/jquery-latest.min.js
+File Name: D:\the hue site\pc-thehue.com\jquery-latest.min.js
+Content Type: application/javascript
+
+Uri: http://fonts.googleapis.com/css?family=Open+Sans:400,700
+File Name: D:\the hue site\pc-thehue.com\css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/earlyaccess/nanumgothic.css
+File Name: D:\the hue site\pc-thehue.com\earlyaccess\nanumgothic.css
+Content Type: text/css
+
+Uri: http://fonts.gstatic.com/s/nanumgothic/v26/PN_3Rfi-oW3hYwmKDpxS7F_D-djb.ttf
+File Name: D:\the hue site\pc-thehue.com\s\nanumgothic\v26\PN_3Rfi-oW3hYwmKDpxS7F_D-djb.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsj.ttf
+File Name: D:\the hue site\pc-thehue.com\s\nanumgothic\v26\PN_oRfi-oW3hYwmKDpxS7F_LQv3LyVsj.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/nanumgothic/v26/PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsj.ttf
+File Name: D:\the hue site\pc-thehue.com\s\nanumgothic\v26\PN_oRfi-oW3hYwmKDpxS7F_LXv7LyVsj.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: D:\the hue site\pc-thehue.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://fonts.gstatic.com/s/opensans/v44/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\the hue site\pc-thehue.com\s\opensans\v44\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: D:\the hue site\pc-thehue.com\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: http://pc-thehue.com/
+File Name: D:\the hue site\pc-thehue.com\index.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/assets/arrowleft.png
+File Name: D:\the hue site\pc-thehue.com\assets\arrowleft.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/arrowright.png
+File Name: D:\the hue site\pc-thehue.com\assets\arrowright.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/arrow_left.png
+File Name: D:\the hue site\pc-thehue.com\assets\arrow_left.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/arrow_left2.png
+File Name: D:\the hue site\pc-thehue.com\assets\arrow_left2.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/arrow_right.png
+File Name: D:\the hue site\pc-thehue.com\assets\arrow_right.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/arrow_right2.png
+File Name: D:\the hue site\pc-thehue.com\assets\arrow_right2.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/boxed_bgtile.png
+File Name: D:\the hue site\pc-thehue.com\assets\boxed_bgtile.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/bullet.png
+File Name: D:\the hue site\pc-thehue.com\assets\bullet.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/bullets.png
+File Name: D:\the hue site\pc-thehue.com\assets\bullets.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/bullets2.png
+File Name: D:\the hue site\pc-thehue.com\assets\bullets2.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/bullet_boxed.png
+File Name: D:\the hue site\pc-thehue.com\assets\bullet_boxed.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/coloredbg.png
+File Name: D:\the hue site\pc-thehue.com\assets\coloredbg.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/gridtile.png
+File Name: D:\the hue site\pc-thehue.com\assets\gridtile.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/gridtile_3x3.png
+File Name: D:\the hue site\pc-thehue.com\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/gridtile_3x3_white.png
+File Name: D:\the hue site\pc-thehue.com\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/gridtile_white.png
+File Name: D:\the hue site\pc-thehue.com\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/large_left.png
+File Name: D:\the hue site\pc-thehue.com\assets\large_left.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/large_right.png
+File Name: D:\the hue site\pc-thehue.com\assets\large_right.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/loader.gif
+File Name: D:\the hue site\pc-thehue.com\assets\loader.gif
+Content Type: image/gif
+
+Uri: http://pc-thehue.com/assets/navigdots.png
+File Name: D:\the hue site\pc-thehue.com\assets\navigdots.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/shadow1.png
+File Name: D:\the hue site\pc-thehue.com\assets\shadow1.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/shadow2.png
+File Name: D:\the hue site\pc-thehue.com\assets\shadow2.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/shadow3.png
+File Name: D:\the hue site\pc-thehue.com\assets\shadow3.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/small_left.png
+File Name: D:\the hue site\pc-thehue.com\assets\small_left.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/small_left_boxed.png
+File Name: D:\the hue site\pc-thehue.com\assets\small_left_boxed.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/small_right.png
+File Name: D:\the hue site\pc-thehue.com\assets\small_right.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/small_right_boxed.png
+File Name: D:\the hue site\pc-thehue.com\assets\small_right_boxed.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/assets/timer.png
+File Name: D:\the hue site\pc-thehue.com\assets\timer.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/a_img/bg02.jpg
+File Name: D:\the hue site\pc-thehue.com\a_img\bg02.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/a_img/hp_1.png
+File Name: D:\the hue site\pc-thehue.com\a_img\hp_1.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/a_img/hp_2.png
+File Name: D:\the hue site\pc-thehue.com\a_img\hp_2.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/a_img/hp_6.png
+File Name: D:\the hue site\pc-thehue.com\a_img\hp_6.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/a_img/hp_7.png
+File Name: D:\the hue site\pc-thehue.com\a_img\hp_7.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/a_img/quick_arrow1.png
+File Name: D:\the hue site\pc-thehue.com\a_img\quick_arrow1.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/a_img/quick_arrow2.png
+File Name: D:\the hue site\pc-thehue.com\a_img\quick_arrow2.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/board/photoimg/20250829190544.png
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250829190544.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/board/photoimg/20250829190551.png
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250829190551.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/board/photoimg/20250829190558.png
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250829190558.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/board/photoimg/20250829191909-.jpg
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250829191909-.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/photoimg/20250829192032_3.jpg
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250829192032_3.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/photoimg/20250903103812_35.html
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250903103812_35.html
+Content Type: text/html
+
+Uri: http://pc-thehue.com/board/photoimg/20250903104134_3.jpg
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250903104134_3.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/photoimg/20250903104134_4.jpg
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250903104134_4.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/photoimg/20250908090725_3.png
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250908090725_3.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/board/photoimg/20250908091211_3.jpg
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250908091211_3.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/photoimg/20250908091652_3.jpg
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250908091652_3.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/photoimg/20250918092908_3.png
+File Name: D:\the hue site\pc-thehue.com\board\photoimg\20250918092908_3.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/board/smallimg/20250829192032_3.jpg
+File Name: D:\the hue site\pc-thehue.com\board\smallimg\20250829192032_3.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/smallimg/20250903104134_3.jpg
+File Name: D:\the hue site\pc-thehue.com\board\smallimg\20250903104134_3.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/smallimg/20250903104134_4.jpg
+File Name: D:\the hue site\pc-thehue.com\board\smallimg\20250903104134_4.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/smallimg/20250908090725_3.png
+File Name: D:\the hue site\pc-thehue.com\board\smallimg\20250908090725_3.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/board/smallimg/20250908091211_3.jpg
+File Name: D:\the hue site\pc-thehue.com\board\smallimg\20250908091211_3.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/smallimg/20250908091652_3.jpg
+File Name: D:\the hue site\pc-thehue.com\board\smallimg\20250908091652_3.jpg
+Content Type: image/jpeg
+
+Uri: http://pc-thehue.com/board/smallimg/20250918092908_3.png
+File Name: D:\the hue site\pc-thehue.com\board\smallimg\20250918092908_3.png
+Content Type: image/png
+
+Uri: http://pc-thehue.com/font-awesome/css/font-awesome.css
+File Name: D:\the hue site\pc-thehue.com\font-awesome\css\font-awesome.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: D:\the hue site\pc-thehue.com\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://pc-thehue.com/font-awesome/fonts/fontawesome-webfont.eot?v=3.0.1
+File Name: D:\the hue site\pc-thehue.com\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://pc-thehue.com/font-awesome/fonts/fontawesome-webfont.ttf?v=3.0.1
+File Name: D:\the hue site\pc-thehue.com\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://pc-thehue.com/font-awesome/fonts/fontawesome-webfont.woff?v=3.0.1
+File Name: D:\the hue site\pc-thehue.com\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: http://pc-thehue.com/jquery/custom.js?ver=3.9.9
+File Name: D:\the hue site\pc-thehue.com\jquery\custom.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/jquery/foundation.min.js
+File Name: D:\the hue site\pc-thehue.com\jquery\foundation.min.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/jquery/jquery.js?ver=1.11.0
+File Name: D:\the hue site\pc-thehue.com\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/jquery/jquery.reject.js?ver=3.9.9
+File Name: D:\the hue site\pc-thehue.com\jquery\jquery.reject.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/jquery/jquery.swiper.js?ver=3.9.9
+File Name: D:\the hue site\pc-thehue.com\jquery\jquery.swiper.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/jquery/jquery.tinycarousel.js?ver=3.9.9
+File Name: D:\the hue site\pc-thehue.com\jquery\jquery.tinycarousel.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/jquery/settings.css?rev=4.1.4&ver=3.9.9
+File Name: D:\the hue site\pc-thehue.com\jquery\settings.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/jquery/settings2.css?rev=4.1.4&ver=3.9.9
+File Name: D:\the hue site\pc-thehue.com\jquery\settings2.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/m/
+File Name: D:\the hue site\pc-thehue.com\m\index.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/m/page/?1
+File Name: D:\the hue site\pc-thehue.com\m\page\index.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/m/page/?2
+File Name: D:\the hue site\pc-thehue.com\m\page\index-2.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/m/page/?3
+File Name: D:\the hue site\pc-thehue.com\m\page\index-5.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/m/page/?4
+File Name: D:\the hue site\pc-thehue.com\m\page\index-3.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/m/page/?5
+File Name: D:\the hue site\pc-thehue.com\m\page\index-4.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/m/page/?6
+File Name: D:\the hue site\pc-thehue.com\m\page\index-1.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/m/plat/platform-1.3.2.js
+File Name: D:\the hue site\pc-thehue.com\m\plat\platform-1.3.2.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/m/script/jquery.min.js
+File Name: D:\the hue site\pc-thehue.com\m\script\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/m/style/common.css
+File Name: D:\the hue site\pc-thehue.com\m\style\common.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/m/style/demo.css?v=5
+File Name: D:\the hue site\pc-thehue.com\m\style\demo.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/m/style/jquery-1.8.3.min.js
+File Name: D:\the hue site\pc-thehue.com\m\style\jquery-1.8.3.min.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/m/style/jquery.mmenu.all.css?v=5
+File Name: D:\the hue site\pc-thehue.com\m\style\jquery.mmenu.all.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/m/style/jquery.mmenu.min.all.js?v=5
+File Name: D:\the hue site\pc-thehue.com\m\style\jquery.mmenu.min.all.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/mobile/
+File Name: D:\the hue site\pc-thehue.com\mobile\index.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/okadmin/
+File Name: D:\the hue site\pc-thehue.com\okadmin\index.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/page/?1
+File Name: D:\the hue site\pc-thehue.com\page\index.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/page/?2
+File Name: D:\the hue site\pc-thehue.com\page\index-2.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/page/?3
+File Name: D:\the hue site\pc-thehue.com\page\index-5.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/page/?4
+File Name: D:\the hue site\pc-thehue.com\page\index-3.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/page/?5
+File Name: D:\the hue site\pc-thehue.com\page\index-4.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/page/?6
+File Name: D:\the hue site\pc-thehue.com\page\index-1.htm
+Content Type: text/html
+
+Uri: http://pc-thehue.com/plat/platform-1.3.2.js
+File Name: D:\the hue site\pc-thehue.com\plat\platform-1.3.2.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/script/global.js
+File Name: D:\the hue site\pc-thehue.com\script\global.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/script/jquery.js
+File Name: D:\the hue site\pc-thehue.com\script\jquery.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/script/jquery.min.js
+File Name: D:\the hue site\pc-thehue.com\script\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/style/common.css
+File Name: D:\the hue site\pc-thehue.com\style\common.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/style/styles.css
+File Name: D:\the hue site\pc-thehue.com\style\styles.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/style_new/dynamic-captions.css?rev=4.1.4&ver=3.8.1
+File Name: D:\the hue site\pc-thehue.com\style_new\dynamic-captions.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/style_new/jquery.themepunch.plugins.min.js?rev=4.1.4&ver=3.8.1
+File Name: D:\the hue site\pc-thehue.com\style_new\jquery.themepunch.plugins.min.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/style_new/jquery.themepunch.revolution.min.js?rev=4.1.4&ver=3.8.1
+File Name: D:\the hue site\pc-thehue.com\style_new\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: http://pc-thehue.com/style_new/settings.css?rev=4.1.4&ver=3.8.1
+File Name: D:\the hue site\pc-thehue.com\style_new\settings.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/style_new/style.css?ver=3.8.1
+File Name: D:\the hue site\pc-thehue.com\style_new\style.css
+Content Type: text/css
+
+Uri: http://pc-thehue.com/style_new/thema2.css?ver=3.9.9
+File Name: D:\the hue site\pc-thehue.com\style_new\thema2.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css
+File Name: D:\the hue site\pc-thehue.com\font-awesome\4.4.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.eot?
+File Name: D:\the hue site\pc-thehue.com\font-awesome\4.4.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.eot?v=4.4.0
+File Name: D:\the hue site\pc-thehue.com\font-awesome\4.4.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.svg?v=4.4.0
+File Name: D:\the hue site\pc-thehue.com\font-awesome\4.4.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.ttf?v=4.4.0
+File Name: D:\the hue site\pc-thehue.com\font-awesome\4.4.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.woff2?v=4.4.0
+File Name: D:\the hue site\pc-thehue.com\font-awesome\4.4.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/fonts/fontawesome-webfont.woff?v=4.4.0
+File Name: D:\the hue site\pc-thehue.com\font-awesome\4.4.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.brandb.net/favicon.ico
+File Name: D:\the hue site\pc-thehue.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.brandb.net/_next/static/media/3e9e226c3cf8865b-s.p.woff2
+File Name: D:\the hue site\pc-thehue.com\_next\static\media\3e9e226c3cf8865b-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.brandb.net/_next/static/media/45abdda67ad69afe-s.p.woff2
+File Name: D:\the hue site\pc-thehue.com\_next\static\media\45abdda67ad69afe-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.brandb.net/_next/static/media/594abaeb2223a020-s.p.woff2
+File Name: D:\the hue site\pc-thehue.com\_next\static\media\594abaeb2223a020-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.brandb.net/_next/static/media/c4b428d94c6e8fa8-s.p.woff2
+File Name: D:\the hue site\pc-thehue.com\_next\static\media\c4b428d94c6e8fa8-s.p.woff2
+Content Type: font/woff2
+
+Uri: https://www.brandb.net/_next/static/media/dbef295d3191b01c-s.p.woff2
+File Name: D:\the hue site\pc-thehue.com\_next\static\media\dbef295d3191b01c-s.p.woff2
+Content Type: font/woff2
+
